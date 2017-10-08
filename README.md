@@ -23,8 +23,8 @@ class bank_bot(bcr.cls.bank):
         totalData.append(cr1)
         totalData.append(cr2)
         return totalData
-        
-bcr/__init__.py
+        
+<p>bcr/__init__.py</p>
 
 import bcr.bank_demo
 
